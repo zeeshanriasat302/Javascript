@@ -1,0 +1,1 @@
+console.log("A code repo for learning javascript")
